@@ -10,7 +10,7 @@ I build and ship production web applications using React, Next.js, and Node.js. 
 
 ## 🚀 Currently shipping
 
-**[KTC Enerji Elektrik](https://www.ktcelektrik.com.tr/)** — Multilingual corporate website (EN / TR / AR) built from scratch with Next.js. 20+ responsive pages, RTL Arabic support, deployed and hosted independently.
+**[KTC Enerji Elektrik](https://www.ktcelektrik.com.tr/)** — Multilingual corporate website (EN / TR ) built from scratch with Next.js. 20+ responsive pages, deployed and hosted independently.
 
 ---
 
