@@ -49,4 +49,4 @@ I build and ship production web applications using React, Next.js, and Node.js. 
 
 ---
 
-*Currently seeking junior to mid-level full-stack roles in Tunisia and across Europe.*
+*Currently seeking mid-level fullstack roles in Europe & Gulf Open to relocation · Visa sponsorship accepted*
